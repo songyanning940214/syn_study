@@ -1,0 +1,4 @@
+18:50:40.405 [main] INFO  com.rzspider.RZSpiderApplication - Starting RZSpiderApplication on LAPTOP-9CEB51PM with PID 2324 (E:\Java\springboot_syn\target\classes started by 14840 in E:\Java\springboot_syn)
+18:50:40.413 [main] DEBUG com.rzspider.RZSpiderApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+18:50:40.414 [main] INFO  com.rzspider.RZSpiderApplication - The following profiles are active: druid
+18:50:41.046 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final

@@ -1,0 +1,2 @@
+Application Version: ${rzspider.version}
+Spring Boot Version: ${spring-boot.version}
